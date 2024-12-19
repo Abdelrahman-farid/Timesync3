@@ -70,7 +70,7 @@ class Computerscince extends StatelessWidget {
           ),
         ],
       ),
-      bottomNavigationBar: Padding(
+      bottomNavigationBar: Padding(  
         padding: const EdgeInsets.all(15.0),
         child: Row(
           children: [

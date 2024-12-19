@@ -192,4 +192,4 @@ class ClockPainter extends CustomPainter {
   bool shouldRepaint(covariant ClockPainter oldDelegate) {
     return oldDelegate.progress != progress;
   }
-}
+}   
